@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7e27fb103706d57499a6365e2540a418, type: 3}
+  m_Name: LudoGameInitiate_SO
+  m_EditorClassIdentifier: 
+  AllData:
+    status: 0
+    message: 
+    data:
+      userinfo:
+        currency: 
+        currency_Symbol: 
+        game_code: 
+        operator_name: 
+        player_id: 
+        player_nickname: 
+        wallet: 0
+        profile_pic: 
+        session_token: 
+        auth_token: 
